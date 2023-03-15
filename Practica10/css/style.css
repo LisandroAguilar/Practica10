@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(199, 247, 247);
+}
+nav{
+    background-color: rgb(56, 55, 55);
+}
+.card-body{
+    color: rgb(138, 68, 22);
+}
+.col-lg-6 col-md-12 mb-4 mb-md-0{
+    text-left
+}
